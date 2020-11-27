@@ -171,6 +171,12 @@ footer{
     font-size: 38px;
 }
 }
+@media screen and (max-width: 450px){
+    .image-post{
+        width: 300px;
+
+    }
+}
 @media screen and (max-width: 400px){
 
     .logo{
@@ -210,6 +216,12 @@ footer{
 .fontStyle{
     font-size: 20px;
 }
+}
+@media screen and (max-width: 250px){
+    .img-about{
+        width: 90%;
+        height: 50%;
+    }
 }
 @media screen and (max-width: 250px){
     .logo{
