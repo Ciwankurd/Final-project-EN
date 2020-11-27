@@ -126,9 +126,6 @@ footer{
 .dark-mode .smallbox {
     background: #1d3557;
 }
-.dark-mode h1 {
-    color: #fff;
-}
 /*--------------------------------REPOSNIVE---------------------*/
 @media screen and (max-width: 1100px) {
   .logo-img {
